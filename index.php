@@ -53,7 +53,6 @@ $message .= "\n\nTo send a reply, please click here -> $email";
 </head>
 
 <body>
-
   <!--==========================
     Header
   ============================-->
@@ -90,9 +89,9 @@ $message .= "\n\nTo send a reply, please click here -> $email";
             <div class="carousel-background"><img src="img/intro-carousel/1.jpg" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2>We are professional</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                <a href="#featured-services" class="btn-get-started scrollto">Get Started</a>
+                <h2>Yoga for everyone</h2>
+                <p>Yoga is a lifestyle than a series of workout. It helps relieve stress and help you relieve from tensions. We teach you YOGA.</p>
+                <a href="#services" class="btn-get-started scrollto">Get Started</a>
               </div>
             </div>
           </div>
@@ -101,9 +100,9 @@ $message .= "\n\nTo send a reply, please click here -> $email";
             <div class="carousel-background"><img src="img/intro-carousel/2.jpg" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2>At vero eos et accusamus</h2>
-                <p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut.</p>
-                <a href="#featured-services" class="btn-get-started scrollto">Get Started</a>
+                <h2>Peace</h2>
+                <p>Meditation is a practice to attain the position of peace and calmness. Inner peace is the most Important and necessary aspect in our day-to-day life. We teach you the best ways to attain it and help you regrow from within.</p>
+                <a href="#services" class="btn-get-started scrollto">Get Started</a>
               </div>
             </div>
           </div>
@@ -112,31 +111,9 @@ $message .= "\n\nTo send a reply, please click here -> $email";
             <div class="carousel-background"><img src="img/intro-carousel/3.jpg" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2>Temporibus autem quibusdam</h2>
-                <p>Beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt omnis iste natus error sit voluptatem accusantium.</p>
-                <a href="#featured-services" class="btn-get-started scrollto">Get Started</a>
-              </div>
-            </div>
-          </div>
-
-          <div class="carousel-item">
-            <div class="carousel-background"><img src="img/intro-carousel/4.jpg" alt=""></div>
-            <div class="carousel-container">
-              <div class="carousel-content">
-                <h2>Nam libero tempore</h2>
-                <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum.</p>
-                <a href="#featured-services" class="btn-get-started scrollto">Get Started</a>
-              </div>
-            </div>
-          </div>
-
-          <div class="carousel-item">
-            <div class="carousel-background"><img src="img/intro-carousel/5.jpg" alt=""></div>
-            <div class="carousel-container">
-              <div class="carousel-content">
-                <h2>Magnam aliquam quaerat</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                <a href="#featured-services" class="btn-get-started scrollto">Get Started</a>
+                <h2>Astrology</h2>
+                <p>Astrology is science and mathematics combined than a simple belief. We help you with your detailed life chart, matchmaking and the rest of the services mentioned below.</p>
+                <a href="#about" class="btn-get-started scrollto">Get Started</a>
               </div>
             </div>
           </div>
@@ -155,7 +132,7 @@ $message .= "\n\nTo send a reply, please click here -> $email";
 
       </div>
     </div>
-  </section><!-- #intro -->
+  </section><!-- #intro -->  
 
   <main id="main">
 
@@ -166,8 +143,9 @@ $message .= "\n\nTo send a reply, please click here -> $email";
       <div class="container">
 
         <header class="section-header">
-          <h3>About Us</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          <h3>SriTulasi</h3>
+          <p style="text-align: justify;">Sri Tulasi is a veteran in teaching Yoga with over 15 years of experience and had over 300 students. She teaches meditation and helps people find the inner peace. Over the period, Sri Tulasi trained numerous teachers who now teaches YOGA in different institutions. As a yoga therapist she assists her clients to release stress and tensions through yoga. In TATA cert services, which handles project management and quality assurance, Sri Tulasi is an examiner for 15 + years. With the abundance of wisdom and experience Sri Tulasi gives the best to the students and clients with Yoga and meditation classes. </p>
+          <p style="text-align: justify;">Sri Tulasi provides astrology consultation, as a matter-of-fact Sri Tulasi is one of the leading astrology consultants in Hyderabad. She provided the consultation for more than 300 marriages. She started her career as astrology consultant 15 years ago and she has over 800 regular clients.</p>
         </header>
 
         </div>
@@ -190,17 +168,17 @@ $message .= "\n\nTo send a reply, please click here -> $email";
           <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
             <div class="icon"><i class="ion-ios-analytics-outline"></i></div>
             <h4 class="title"><a href="#services">Yoga Classes</a></h4>
-            <p class="description">We provide General Yoga Classes, Yoga Therapy Classes, Stress Management Classes, Omkaram, Pranayama, Mudras, Bandha, Yoga Teacher Training Classes, Kids Yoga Classes.</p>
+            <p class="description" style="text-align: justify;">We provide General Yoga Classes, Yoga Therapy Classes, Stress Management Classes, Omkaram, Pranayama, Mudras, Bandha, Yoga Teacher Training Classes, Kids Yoga Classes.</p>
           </div>
           <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
             <div class="icon"><i class="ion-ios-speedometer-outline"></i></div>
             <h4 class="title"><a href="#services">Meditation</a></h4>
-            <p class="description">We provide Dhatu Meditation, Sri Chakra Meditation, Chakra Balancing Techniques.</p>
+            <p class="description" style="text-align: justify;">We provide Dhatu Meditation, Sri Chakra Meditation, Chakra Balancing Techniques.</p>
           </div>
           <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
             <div class="icon"><i class="ion-ios-paper-outline"></i></div>
             <h4 class="title"><a href="#services">Astrology</a></h4>
-            <p class="description">We offer Detailed Life Report, Marriage and Match Compatibility, Marriage Problems, Career Astrology, Childbirth and C Section Muhurta, Business Astrology, Birth Time Rectification, Health Issues and Dangers, Muhurta’s for Different Auspicious Occasions, Personal Yearly Predictions.</p>
+            <p class="description" style="text-align: justify;">We offer Detailed Life Report, Marriage and Match Compatibility, Marriage Problems, Career Astrology, Childbirth and C Section Muhurta, Business Astrology, Birth Time Rectification, Health Issues and Dangers, Muhurta’s for Different Auspicious Occasions, Personal Yearly Predictions.</p>
           </div>
 
         </div>
@@ -235,7 +213,7 @@ $message .= "\n\nTo send a reply, please click here -> $email";
             <div class="contact-address">
               <i class="ion-ios-location-outline"></i>
               <h3>Address</h3>
-              <address>Hyderabad</address>
+              <address><a href="https://goo.gl/maps/agDnh71TdAoXw7qZ8" target="_blank">Leela hospital road, motinagar mainroad, Hyderabad, Telangana </a></address>
             </div>
           </div>
 
@@ -243,7 +221,7 @@ $message .= "\n\nTo send a reply, please click here -> $email";
             <div class="contact-phone">
               <i class="ion-ios-telephone-outline"></i>
               <h3>Phone Number</h3>
-              <p><a href="tel:+91 8099909923">+91 8099909923</a></p>
+              <p><a href="https://mywa.link/yt6atjlc" target="_blank" >+91 8099909923</a></p>
             </div>
           </div>
 
@@ -251,7 +229,7 @@ $message .= "\n\nTo send a reply, please click here -> $email";
             <div class="contact-email">
               <i class="ion-ios-email-outline"></i>
               <h3>Email</h3>
-              <p><a href="mailto:">info@example.com</a></p>
+              <p><a href="mailto:sriastro.y@gmail.com">sriastro.y@gmail.com</a></p>
             </div>
           </div>
 
