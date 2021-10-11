@@ -143,7 +143,7 @@ $message .= "\n\nTo send a reply, please click here -> $email";
       <div class="container">
 
         <header class="section-header">
-          <h3>SriTulasi</h3>
+          <h3>About Us</h3>
           <p style="text-align: justify;">Sri Tulasi is a veteran in teaching Yoga with over 15 years of experience and had over 300 students. She teaches meditation and helps people find the inner peace. Over the period, Sri Tulasi trained numerous teachers who now teaches YOGA in different institutions. As a yoga therapist she assists her clients to release stress and tensions through yoga. In TATA cert services, which handles project management and quality assurance, Sri Tulasi is an examiner for 15 + years. With the abundance of wisdom and experience Sri Tulasi gives the best to the students and clients with Yoga and meditation classes. </p>
           <p style="text-align: justify;">Sri Tulasi provides astrology consultation, as a matter-of-fact Sri Tulasi is one of the leading astrology consultants in Hyderabad. She provided the consultation for more than 300 marriages. She started her career as astrology consultant 15 years ago and she has over 800 regular clients.</p>
         </header>
