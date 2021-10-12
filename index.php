@@ -178,7 +178,7 @@ $message .= "\n\nTo send a reply, please click here -> $email";
           <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
             <div class="icon"><i class="ion-ios-paper-outline"></i></div>
             <h4 class="title"><a href="#services">Astrology</a></h4>
-            <p class="description" style="text-align: justify;">We offer Detailed Life Report, Marriage and Match Compatibility, Marriage Problems, Career Astrology, Childbirth and C Section Muhurta, Business Astrology, Birth Time Rectification, Health Issues and Dangers, Muhurta’s for Different Auspicious Occasions, Personal Yearly Predictions.</p>
+            <p class="description" style="text-align: justify;">We offer Detailed Life Report, Marriage and Match Compatibility, Marriage Problems, Career Astrology, Business Astrology, Birth Time Rectification, Health Issues and Dangers, Muhurta’s for Different Auspicious Occasions, Personal Yearly Predictions.</p>
           </div>
 
         </div>
