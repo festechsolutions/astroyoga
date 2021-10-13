@@ -29,8 +29,8 @@ $message .= "\n\nTo send a reply, please click here -> $email";
   <meta charset="utf-8">
   <title>Welcome to Sri Astro Yoga Vidya Peetam</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <meta content="yoga, astro yoga, vidya peetam" name="keywords">
-  <meta content="" name="description">
+  <meta content="Yoga, Yoga Classes, Yoga Therapy Classes, Stress Management Classes, Omkaram, Pranayama, Mudras, Bandha, Yoga Teacher Training Classes, Kids Yoga Classes, Meditation, Dhatu Meditation, Sri Chakra Meditation, Chakra Balancing Techniques, Astrology, Life Report, Marriage and Match Compatibility, Marriage Problems, Career Astrology, Business Astrology, Birth Time Rectification, Health Issues and Dangers, Muhurta’s for Different Auspicious Occasions, Personal Yearly Predictions" name="keywords">
+  <meta content="Yoga is a lifestyle than a series of workout. It helps relieve stress and help you relieve from tensions. Meditation is a practice to attain the position of peace and calmness. Inner peace is the most Important and necessary aspect in our day-to-day life. Astrology is science and mathematics combined than a simple belief." name="description">
 
   <link href="img/Logo.png" rel="icon">
 
@@ -46,6 +46,10 @@ $message .= "\n\nTo send a reply, please click here -> $email";
   <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
   <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
   <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+
+  <!-- Sweet Alert Files -->
+  <link data-require="sweet-alert@*" data-semver="0.4.2" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.css" />
+  <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 
   <!-- Main Stylesheet File -->
   <link href="css/style.css" rel="stylesheet">
@@ -69,6 +73,7 @@ $message .= "\n\nTo send a reply, please click here -> $email";
           <li><a href="#about">About Us</a></li>
           <li><a href="#services">Services</a></li>
           <li><a href="#contact">Contact</a></li>
+          <li><a href="https://youtube.com/c/ShubhamTV" target="_blank">Our Channel</a></li>
         </ul>
       </nav><!-- #nav-menu-container -->
     </div>
@@ -211,7 +216,7 @@ $message .= "\n\nTo send a reply, please click here -> $email";
 
           <div class="col-md-4">
             <div class="contact-address">
-              <i class="ion-ios-location-outline"></i>
+              <i class="ion-location"></i>
               <h3>Address</h3>
               <address><a href="https://goo.gl/maps/agDnh71TdAoXw7qZ8" target="_blank">Leela hospital road, motinagar mainroad, Hyderabad, Telangana </a></address>
             </div>
@@ -219,7 +224,7 @@ $message .= "\n\nTo send a reply, please click here -> $email";
 
           <div class="col-md-4">
             <div class="contact-phone">
-              <i class="ion-ios-telephone-outline"></i>
+              <i class="ion-social-whatsapp"></i>
               <h3>Phone Number</h3>
               <p><a href="https://mywa.link/yt6atjlc" target="_blank" >+91 8099909923</a></p>
             </div>
@@ -227,7 +232,7 @@ $message .= "\n\nTo send a reply, please click here -> $email";
 
           <div class="col-md-4">
             <div class="contact-email">
-              <i class="ion-ios-email-outline"></i>
+              <i class="ion-email"></i>
               <h3>Email</h3>
               <p><a href="mailto:sriastro.y@gmail.com">sriastro.y@gmail.com</a></p>
             </div>
@@ -310,8 +315,6 @@ $message .= "\n\nTo send a reply, please click here -> $email";
   <script src="lib/isotope/isotope.pkgd.min.js"></script>
   <script src="lib/lightbox/js/lightbox.min.js"></script>
   <script src="lib/touchSwipe/jquery.touchSwipe.min.js"></script>
-  <!-- Contact Form JavaScript File -->
-  <script src="contactform/contactform.js"></script>
 
   <!-- Template Main Javascript File -->
   <script src="js/main.js"></script>
